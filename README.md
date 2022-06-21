@@ -5,7 +5,7 @@
 #### `Step 1` - clone the repo
 
 ```bash
-$ git clone https://github.com/CarlosChivas/ibm-users.git
+$ git clone https://github.com/A01351361/IBM_Project.git
 ```
 
 #### `Step 2` - install dependencies in the ibm-front, ibm-peripherals and ibm-users directories
